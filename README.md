@@ -1,1 +1,2 @@
-# todo
+# todo list
+using MERN Stack
